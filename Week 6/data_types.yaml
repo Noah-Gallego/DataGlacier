@@ -1,0 +1,5 @@
+fileType: csv
+fileName: output
+readDelimeter: ","
+writeDelimeter: "|"
+columns: ['Index', 'EAN', 'Internal ID', 'Stock', 'Price']
